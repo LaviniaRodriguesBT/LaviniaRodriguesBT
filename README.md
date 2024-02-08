@@ -11,7 +11,7 @@
  ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css)
  ![Html](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html)</br>
  
- <a href="http://linkedin.com/in/lavínia-brandani-ab780382" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div><br>
+ <a href="http://linkedin.com/in/lavínia-brandani-ab780382" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 </div>
 
 <div>
