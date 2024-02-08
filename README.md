@@ -9,7 +9,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![Html](<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html)
+![Html](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html)
 
 
 
@@ -18,6 +18,8 @@
   <a href="https://github.com/LaviniaRodriguesBT">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviniaRodriguesBT&layout=compact&langs_count=7&theme=dracula"/>
   </a></br></br>
+
+  ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
   [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LaviniaRodriguesBT&show_icons=true&theme=dracula)](https://github.com/LaviniaRodriguesBT)
 </div>
