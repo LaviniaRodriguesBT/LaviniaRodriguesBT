@@ -16,8 +16,8 @@
 
 <div>
   <a href="https://github.com/LaviniaRodriguesBT">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LaviniaRodriguesBT&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviniaRodriguesBT&layout=compact&langs_count=7&theme=cobalt"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LaviniaRodriguesBT&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviniaRodriguesBT&layout=compact&langs_count=7&theme=cobalt"/>
   </br>
 </div>
 
