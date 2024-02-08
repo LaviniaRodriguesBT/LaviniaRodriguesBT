@@ -9,10 +9,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![Html](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html)
+![Html](<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html)
 
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 
 
