@@ -22,7 +22,3 @@
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaviniaRodriguesBT&layout=compact&langs_count=7&theme=cobalt"/>
   </br>
 </div>
-
-<div>
- //![Snake animation](https://github.com/LaviniaRodriguesBT/LaviniaRodriguesBT/blob/main/imgs/github-contribution-grid-snake.svg)
-</div>
