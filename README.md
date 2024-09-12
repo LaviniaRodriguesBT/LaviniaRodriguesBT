@@ -1,7 +1,7 @@
 ## Olá pessoal! 👋</br>
  
-- 👋 Meu nome é Lavínia Brandani, tenho 20 anos.
-- 📚 Sou estudante do 5° período de Sistemas de Informação na FAI.
+- 👋 Meu nome é Lavínia Brandani, tenho 21 anos.
+- 📚 Sou estudante do 6° período de Sistemas de Informação na FAI.
 - 💻 Estou buscando aprender mais sobre:</br>
 
 <div>
